@@ -1,0 +1,52 @@
+Basic Date Analysis
+1. Display order date and extract the year.
+2. Find total sales for each year.
+3. Find the number of orders placed in each year.
+4. Find all orders placed in 2026.
+5. Find total sales for each month.
+Month Analysis
+6. Display month number and month name for every order.
+7. Find the month with the highest total sales.
+8. Find the number of orders placed in each month.
+9. Find all orders placed during December.
+10. Find total sales for each quarter.
+Week & Day Analysis
+11. Find the week number for every order.
+12. Find which weekday has the highest number of orders.
+13. Find total sales by weekday.
+14. Find all orders placed on Sunday.
+15. Find the number of orders placed in each week.
+Quarter Analysis
+16. Create a quarter column using QUARTER().
+17. Find total sales for Q1, Q2, Q3 and Q4.
+18. Find which quarter generated the highest revenue.
+19. Find the number of orders in each quarter.
+Delivery Analysis
+20. Calculate the number of days taken to deliver each order.
+21. Find orders that took more than 7 days to deliver.
+22. Find the average delivery time.
+23. Find the order with the longest delivery time.
+DATE_ADD / DATE_SUB
+24. Calculate the expected delivery date assuming delivery takes 7 days.
+25. Find the date 30 days after every order.
+26. Find the date 15 days before every order.
+DATE_FORMAT
+27. Display dates in DD-MM-YYYY format.
+28. Display dates as Month Year.
+29. Display dates as YYYY-Month.
+30. Display dates as Weekday, DD Month YYYY.
+Logical Data Analyst Questions
+31. Find the best sales month based on total revenue.
+32. Find the best sales quarter.
+33. Find the best sales year.
+34. Find the weekday on which customers place the most orders.
+35. Find customers whose delivery took more than 7 days.
+36. Classify delivery performance as Fast, Normal, or Delayed.
+37. Classify monthly revenue as High, Medium, or Low.
+38. Find the quarter having the highest number of orders.
+39. Compare total sales for 2024, 2025, and 2026.
+40. Find the month with the highest average order value.
+41. Find orders placed in the first 15 days of a month.
+42. Find orders placed in the last 10 days of a month.
+43. Find orders where delivery falls in a different month from the order.
+44. Find orders where delivery took more than 7 days and amount is greater than ₹30,000.
